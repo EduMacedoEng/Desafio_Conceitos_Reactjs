@@ -16,6 +16,7 @@ div {
 div li {
   display: flex;
   align-items: center;
+  vertical-align: middle;
 }
 
 div li + li {
@@ -23,7 +24,7 @@ div li + li {
 }
 
 button {
-  background: #7159c1;
+  background: #6513b3;
   color: #fff;
   border: 0;
   padding: 10px 15px;
